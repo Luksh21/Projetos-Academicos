@@ -7,7 +7,6 @@ package banco;
 
 import br.com.siriuscred.Conta;
 import br.com.siriuscred.ContaPoupanca;
-import br.com.siriuscred.Urna;
 import javax.swing.JOptionPane;
 
 /**
